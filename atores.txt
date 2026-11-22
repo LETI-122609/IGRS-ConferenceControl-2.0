@@ -1,5 +1,0 @@
-Ator	Responsabilidade
-Operador ACME	Disponibilizar e gerir o serviço de telecomunicações.
-Empresa (assinante)	Subscrever o serviço e disponibilizá-lo aos colaboradores.
-Colaborador	Utilizar as salas de conferência.
-Team Leader	Gerir e controlar a sala de conferência da equipa.
