@@ -1,0 +1,49 @@
+Operador ACME
+Goals:
+  Disponibilizar o serviço ConferenceControl 2.0.
+  Aumentar em 10% o tráfego de voz transportado.
+  Aumentar os lucros do operador.
+  Enriquecer o portefólio de serviços.
+  Garantir a segurança do serviço.
+  Monitorizar o desempenho do serviço.
+
+Softgoals:
+  Melhorar a qualidade do serviço.
+  Aumentar a satisfação dos clientes.
+  Melhorar a eficiência operacional.
+
+PME (assinante)
+Goals:
+  Aumentar a produtividade da empresa.
+  Melhorar a gestão das equipas.
+  Disponibilizar ferramentas de comunicação aos colaboradores.
+
+Softgoals:
+  Melhorar a colaboração entre colaboradores.
+  Facilitar a comunicação em teletrabalho.
+  Promover a coesão social entre os colaboradores.
+
+Colaborador
+Goals:
+  Comunicar com os restantes colaboradores.
+  Participar em conferências.
+  Realizar chamadas de voz.
+  Aceder às salas de conferência autorizadas.
+
+Softgoals:
+  Ter facilidade de utilização.
+  Ter uma comunicação fiável.
+  Ter flexibilidade na participação nas conferências.
+
+Team Leader
+Goals:
+  Gerir a sala de conferência da equipa.
+  Controlar os acessos dos colaboradores.
+  Aprovar pedidos de entrada.
+  Rejeitar pedidos de entrada.
+  Garantir que a sala é encerrada corretamente.
+
+Softgoals:
+  Simplificar a gestão da equipa.
+  Garantir controlo sobre as reuniões.
+  Facilitar a comunicação entre os membros da equipa.
